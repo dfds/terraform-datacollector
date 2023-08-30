@@ -1,5 +1,5 @@
 terraform {
-  source = "git::https://github.com/dfds/terraform-datacollector.git//?ref=v1.0.0"
+  source = "git::https://github.com/dfds/terraform-datacollector.git//?ref=v1.1.0"
 }
 
 # Include all settings from the root terragrunt.hcl file
